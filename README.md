@@ -41,7 +41,7 @@ A privacy-focused LM Studio plugin that enables language models to search the we
 
 ```bash
 # Clone the repository
-git clone https://github.com/wjhames/search.git
+git clone https://github.com/wjhames/LM-Studio-Search-Plugin
 
 # Run in development mode
 lms dev
